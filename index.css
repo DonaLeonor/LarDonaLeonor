@@ -1,0 +1,16 @@
+#image{
+    
+  position: relative;
+  top: 20vw;
+  left: 75vw;
+  width: 15vw;
+  height: 10vw;
+
+}
+
+#confirm {
+  position: relative ;
+  top: -10vw;
+
+}
+
